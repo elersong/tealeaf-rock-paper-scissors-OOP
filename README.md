@@ -1,4 +1,5 @@
-# Rock, Paper, Scissors Game, OOP Version #
+# Rock, Paper, Scissors Game #
+#OOP Version#
 
 Features of Command Line RPS Game:
   1. Validates user inputs, and re-prompts user until input is valid
